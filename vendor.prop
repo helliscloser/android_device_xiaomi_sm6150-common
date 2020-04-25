@@ -116,6 +116,7 @@ persist.vendor.camera.logInfoMask=false
 ro.soc.manufacturer=QTI
 
 # Dalvik
+dalvik.vm.dex2oat64.enabled=true
 dalvik.vm.systemuicompilerfilter=speed
 
 # Data modules
