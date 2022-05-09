@@ -1,6 +1,9 @@
 # Bluetooth
 vendor.bluetooth.soc=cherokee
 
+# Camera
+log.tag.CHIUSECASE=ERROR
+
 # Charger
 ro.charger.enable_suspend=true
 
