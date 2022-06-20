@@ -550,6 +550,26 @@ vendor/radio/qcril_database/qcril.db
 -vendor/lib64/libril-qc-hal-qmi.so|637152fc0da369746343118a7ef6eae4bee17c6a
 -vendor/lib64/vendor.qti.hardware.radio.lpa@1.2.so|ff82aa5e007728edfe1e24e73b1ea0c50d805f2c
 
+# Snapdragon Computer Vision Engine
+-vendor/lib/libfastcvdsp_stub.so
+-vendor/lib/libfastcvopt.so
+-vendor/lib/libscveCommon.so
+-vendor/lib/libscveCommon_stub.so
+-vendor/lib/libscveObjectSegmentation.so
+-vendor/lib/libscveObjectSegmentation_stub.so
+-vendor/lib/libscveObjectTracker.so
+-vendor/lib/libscveObjectTracker_stub.so
+-vendor/lib64/libfastcvdsp_stub.so
+-vendor/lib64/libfastcvopt.so
+-vendor/lib64/libscveCommon.so
+-vendor/lib64/libscveCommon_stub.so
+-vendor/lib64/libscveObjectSegmentation.so
+-vendor/lib64/libscveObjectSegmentation_stub.so
+-vendor/lib64/libscveObjectTracker.so
+-vendor/lib64/libscveObjectTracker_stub.so
+-vendor/lib64/vendor.qti.hardware.scve.objecttracker@1.0.so
+-vendor/lib64/vendor.qti.hardware.scve.panorama@1.0.so
+
 # Soter
 vendor/app/SoterService/SoterService.apk
 -vendor/bin/hw/vendor.qti.hardware.soter@1.0-service
